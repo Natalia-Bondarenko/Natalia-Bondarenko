@@ -20,7 +20,7 @@
 
 ## Мои проекты:
 
-### :white_check_mark: **[Командный проект](https://github.com/Natalia-Bondarenko/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:**
+### :white_check_mark: **[Командный проект](https://github.com/Natalia-Bondarenko/javaqa-team-diplom?organization=Natalia-Bondarenko&organization=Natalia-Bondarenko) по курсу «Java для тестировщиков»:**
 
 **Использовались: IDEA, JAVA, Maven, JUnit, JaCoCo**
 - [x] протестировала класс Player.java
