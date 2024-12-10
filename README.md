@@ -20,23 +20,13 @@
 
 ## Мои проекты:
 
-### :white_check_mark: **[Командный проект](https://github.com/NataliaGvozdeva/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:**
+### :white_check_mark: **[Командный проект](https://github.com/Natalia-Bondarenko/javaqa-team-diplom?organization=NataliaGvozdeva&organization=NataliaGvozdeva) по курсу «Java для тестировщиков»:**
 
 **Использовались: IDEA, JAVA, Maven, JUnit, JaCoCo**
 - [x] протестировала класс Player.java
 - [x] написала автотесты PlayerTest.java с использованием JUnit, JaCoCo
 - [x] исправила дефекты в классе GameStore.java
 - [x] оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
-
-### :white_check_mark: **[Курсовой проект](https://docs.google.com/spreadsheets/d/1oIfmirHvvNfC_SUBSiWNRXcbewIXIKoBvEta-OKEOA8/edit#gid=0) по модулю “Мануальное тестирование”:**
-
-**Использовались: DevTools, Jira**
-- [x] cоздала чек-лист, 
-- [x] набор тест-кейсов, 
-- [x] протестировала требования, 
-- [x] нашла дефекты, 
-- [x] протестировала верстку, 
-- [x] клиент-сервер
 
 ## Сертификаты Нетологии:
 
