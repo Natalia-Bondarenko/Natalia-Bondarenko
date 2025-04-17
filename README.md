@@ -7,10 +7,10 @@
 ## Знаю и умею применять:
 
 - :white_check_mark: Ручное тестирование, написание тест-кейсов, тест-дизайн
-- :white_check_mark: Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с Selenium/Selenide, DevTools, Postman, Jmeter
+- :white_check_mark: Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman, Jmeter
 - :white_check_mark: Понимание работы баз данных, написание SQL-запросов
 - :white_check_mark: Работа с Git, GitHub, одновременная работа с несколькими репозиториями
-- :white_check_mark: Автотестирование веб-приложений на Java с использованием JUnit
+- :white_check_mark: Автотестирование веб-приложений на Java с использованием Selenium/Selenide, JUnit
 - :white_check_mark: Проведение нагрузочных тестов
 - :white_check_mark: Мобильное тестирование Android-приложений с помощью Android Studio
 - :white_check_mark: Процессы CI/CD: тестирование, сборка
