@@ -16,9 +16,14 @@
 - :white_check_mark: Процессы CI/CD: тестирование, сборка
 - :white_check_mark: Оформление баг-репортов в Jira
 - :white_check_mark: Знание форматов XML, JSON
+- :white_check_mark: Использование селекторов CSS, XPath
 - :white_check_mark: Опыт работы в IntelliJ IDEA, Visual Studio
 
 ## Мои проекты:
+
+### :white_check_mark: **[Проект с автотестами](https://github.com/Natalia-Bondarenko/Garden):**
+
+**Использовались: фреймворки Selenium/Selenide, селекторы XPath/CSS, Maven**
 
 ### :white_check_mark: **[Командный проект](https://github.com/Natalia-Bondarenko/javaqa-team-diplom?organization=Natalia-Bondarenko&organization=Natalia-Bondarenko) по курсу «Java для тестировщиков»:**
 
@@ -30,6 +35,7 @@
 
 ## Сертификаты Нетологии:
 
+- [Java для тестировщиков](https://netology.ru/sharing/bc552129cd755134cfa00326a87f7a97?utm_source=social&utm_campaign=achievements)
 - [Ручное тестирование веб-приложений](https://netology.ru/sharing/b14e342f8c911d5af75f9b57f6467ffe?utm_source=social&utm_campaign=achievements)
 - [Git](https://netology.ru/sharing/a545d6f10f0c547ec85e1675e9338f8a?utm_source=social)
 
