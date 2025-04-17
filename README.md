@@ -21,9 +21,9 @@
 
 ## Мои проекты:
 
-### :white_check_mark: **[Проект с автотестами](https://github.com/Natalia-Bondarenko/Garden):**
+### :white_check_mark: **[Проект с автотестами "Garden"](https://github.com/Natalia-Bondarenko/Garden):**
 
-**Использовались: фреймворки Selenium/Selenide, селекторы XPath/CSS, Maven**
+**Использовались: IDEA, JAVA, фреймворки Selenium/Selenide, селекторы XPath/CSS, Maven**
 
 ### :white_check_mark: **[Командный проект](https://github.com/Natalia-Bondarenko/javaqa-team-diplom?organization=Natalia-Bondarenko&organization=Natalia-Bondarenko) по курсу «Java для тестировщиков»:**
 
