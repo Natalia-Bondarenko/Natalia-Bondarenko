@@ -36,7 +36,9 @@
 - [x] оформила баг-репорты в виде [Issue](https://github.com/WOVASYA/javaqa-team-diplom/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Сертификат IT-Academy:
-- **[JAVA TEST AUTOMATION (powered by EPAM)]** ![image](https://github.com/user-attachments/assets/2773659b-8477-4fe3-8ece-d9e9b9b956ff)
+- **JAVA TEST AUTOMATION (powered by EPAM)**
+
+ ![image](https://github.com/user-attachments/assets/2773659b-8477-4fe3-8ece-d9e9b9b956ff)
 
 ## Сертификаты Нетологии:
 
