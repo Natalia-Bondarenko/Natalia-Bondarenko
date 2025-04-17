@@ -6,18 +6,20 @@
 
 ## Знаю и умею применять:
 
-- :white_check_mark: Ручное тестирование, написание тест-кейсов, тест-дизайн
-- :white_check_mark: Тестирование веб-приложений, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman, Jmeter
+- :white_check_mark: Автотестирование веб-приложений на Java с использованием Selenium/Selenide, JUnit
+- :white_check_mark: Тестирование UI, API, понимание клиент-серверного взаимодействия, работа с DevTools, Postman, Jmeter
 - :white_check_mark: Понимание работы баз данных, написание SQL-запросов
 - :white_check_mark: Работа с Git, GitHub, одновременная работа с несколькими репозиториями
-- :white_check_mark: Автотестирование веб-приложений на Java с использованием Selenium/Selenide, JUnit
+- :white_check_mark: Процессы CI/CD: тестирование, сборка
+- :white_check_mark: Опыт работы в IntelliJ IDEA, Visual Studio
+- :white_check_mark: Использование селекторов CSS, XPath
+- :white_check_mark: Знание форматов XML, JSON
+
+- :white_check_mark: Ручное тестирование, написание тест-кейсов, тест-дизайн
+- :white_check_mark: Оформление баг-репортов в Jira
+
 - :white_check_mark: Проведение нагрузочных тестов
 - :white_check_mark: Мобильное тестирование Android-приложений с помощью Android Studio
-- :white_check_mark: Процессы CI/CD: тестирование, сборка
-- :white_check_mark: Оформление баг-репортов в Jira
-- :white_check_mark: Знание форматов XML, JSON
-- :white_check_mark: Использование селекторов CSS, XPath
-- :white_check_mark: Опыт работы в IntelliJ IDEA, Visual Studio
 
 ## Мои проекты:
 
