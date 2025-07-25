@@ -46,7 +46,7 @@
 - [Ручное тестирование веб-приложений](https://netology.ru/sharing/b14e342f8c911d5af75f9b57f6467ffe?utm_source=social&utm_campaign=achievements)
 - [Git](https://netology.ru/sharing/a545d6f10f0c547ec85e1675e9338f8a?utm_source=social)
 
-## Обо мне:
+## Обо мне (данные на начало 2023 года):
 ![Infografica_My_way_Gvozdeva_portfolio01](https://user-images.githubusercontent.com/18085714/222981676-5217c492-64e4-4dcc-ba54-c8c6e1a40995.JPG)
 ![Infografica_My_way_Gvozdeva_portfolio02](https://user-images.githubusercontent.com/18085714/222981681-fce3a03b-4677-4ee7-9202-00f02bede965.JPG)
 
