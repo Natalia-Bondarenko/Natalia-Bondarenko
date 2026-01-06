@@ -1,6 +1,6 @@
 **Добрый день!** 👋
 
-**Я Наталья Бондаренко, AQA Engineer (Java)**.
+**Я Наталья Бондаренко, AQA Engineer (Python, Java)**.
 
 Мои контакты: :incoming_envelope: gvozdeva-natalia@mail.ru  :iphone: [t.me/NataliaBnd](https://t.me/NataliaBnd)  :link: [linkedin.com/in/natallia-bondarenko/](https://www.linkedin.com/in/natallia-bondarenko/)
 
